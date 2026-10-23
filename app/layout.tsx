@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     'hotel em Mauá da Serra',
     'hospedagem em Mauá da Serra',
     'hotel na BR-376',
-    'suítes em Mauá da Serra',
+    'suítes em Mauá da Serra ',
   ],
   robots: {
     index: true,
